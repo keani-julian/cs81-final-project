@@ -2,10 +2,10 @@
 
 ## Interactive Web Application: Personal Budget Tracker
 
-## REPO LINK: 
+# REPO LINK: 
 https://github.com/keani-julian/cs81-final-project 
 
-## Instructions – How to Use
+# Instructions – How to Use
 
 1.  Click link to access project. 
 2.  Enter a description of the transaction.
