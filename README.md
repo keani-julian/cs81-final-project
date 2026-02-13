@@ -18,8 +18,8 @@ https://github.com/keani-julian/cs81-final-project
 8.  Delete any entries in either category (income or expense) to make adjustments as needed. 
 
 
-## Overview 
-# Final Project Summary
+# Overview 
+## Final Project Summary
 
 For my final project, the Personal Budget Tracker is an interactive React web application that allows users to track income and expenses, calculate entered totals, and visualize their financial data in a simple and user-friendly interface.
 
