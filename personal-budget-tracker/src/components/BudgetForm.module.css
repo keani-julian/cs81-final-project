@@ -1,0 +1,36 @@
+.formContainer {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 20px;
+  background-color: #f1ecd7;
+}
+
+.inputField {
+  margin-bottom: 10px;
+  padding: 10px;
+  font-size: 14px;
+  border-radius: 6px;
+  border: 1px solid #bfcbbe;
+}
+
+.addButton {
+  padding: 10px;
+  font-size: 14px;
+  border-radius: 6px;
+  border: none;
+  cursor: pointer;
+  background-color: #977900;
+  color: rgb(186, 227, 235);
+}
+
+.error {
+  color: rgb(255, 251, 17);
+  font-size: 12px;
+  margin-bottom: 8px, auto;
+}
+
+.form {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 30px;
+}
