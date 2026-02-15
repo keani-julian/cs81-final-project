@@ -6,7 +6,7 @@
 https://github.com/keani-julian/cs81-final-project 
 
 # Deployment Platform Link: 
-- Vercel: 
+- Vercel: https://cs81-final-project.vercel.app/ 
 
 # Instructions – How to Use
 
