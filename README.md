@@ -2,8 +2,11 @@
 
 ## Interactive Web Application: Personal Budget Tracker
 
-# REPO LINK: 
+# GITHUB REPO LINK: 
 https://github.com/keani-julian/cs81-final-project 
+
+# Deployment Platform Link: 
+- Vercel: 
 
 # Instructions – How to Use
 
@@ -27,7 +30,7 @@ This project demonstrates literacy of core JavaScript concepts, React fundamenta
 
 The application enables users to enter financial transactions in two categories (Expenses and Income), view categorized data in tables, and persist information using localStorage so data remains available after refreshing the page.
 
-# Key Features & Functionality 
+## Key Features & Functionality 
 
 *Income and Expense Tracking* 
 - Users can add income and expense entries through a form.
@@ -97,5 +100,3 @@ The application is divided into reusable React components:
 -  Browser-based data persistence
 
 *Git & GitHub*
-*Deployment Platform:* 
-- Vercel – link: 
